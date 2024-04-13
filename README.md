@@ -6,6 +6,7 @@ CryptoClustering Market Analysis
 ## Overview
 This project involves the clustering of cryptocurrency market behavior using K-Means and Principal Component Analysis (PCA). 
 The goal is to uncover patterns in price changes over various time frames and identify natural groupings of cryptocurrencies based on market movements.
+***NOTE*** Due to some of the dynamic charts not being able to be downloaded into the script, screenshots are provided from what was visible from hv plot in the repository.
 
 ## Table of Contents
 Required Libraries
